@@ -1,0 +1,18 @@
+<form action="" method="get">
+			<h1>Bieu thuc chinh qui</h1>		
+			<label for="phone">Mobile: </label>
+			<input type="text" name="phone" value="" placeholder="+84 988.169.829" pattern="[+]{1}[0-9]{2} [0-9]{3}.[0-9]{3}.[0-9]{3}"><br>
+			<label for="sdt">So dien thoai: </label>
+			<input type="text" name="phone" value="" placeholder="0988169829" pattern="[0-9]{10,11}"><br>
+			<label for="email">Email: </label>
+			<input type="text" name="email" value="" placeholder="example@gmail.com" pattern="[a
+<h1>Bieu thuc chinh qui</h1>		
+			<label for="phone">Mobile: </label>
+			<input type="text" name="phone" value="" placeholder="+84 988.169.829" pattern="[+]{1}[0-9]{2} [0-9]{3}.[0-9]{3}.[0-9]{3}"><br>
+			<label for="sdt">So dien thoai: </label>
+			<input type="text" name="phone" value="" placeholder="0988169829" pattern="[0-9]{10,11}"><br>
+			<label for="email">Email: </label>
+			<input type="text" name="email" value="" placeholder="example@gmail.com" pattern="[a-zA-Z0-9]{6,}@[a-zA-Z]{3,}.[a-z]{
+<input type="text" name="email" value="" placeholder="example@gmail.com" pattern="[a-zA-Z0-9]{6,}@[a-zA-Z]{3,}.[a-z]{3,}"><br>
+			<br>
+			<input type="submit" name="cmd" value="Nhap">
